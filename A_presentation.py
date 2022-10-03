@@ -52,18 +52,4 @@ class A_OptimizationPresentation(ThreeDScene):
         self.clear()
         motivationSlide(self)
 
-        
-
-
-# Welcome
-# WHO am I
-# WHY am I having this talk and WHY is the subject important
-# What is optimization
-    # Mention Knapsack and network routing as well
-# How does it fit in with VRP  ## Select problem
-# What is sustainability        ## Select objectives
-# Mention algorithms            ## Select solver
-# Show results 
-
-
-# https://cloud.google.com/blog/products/ai-machine-learning/google-cloud-optimization-ai-cloud-fleet-routing-api
+    
