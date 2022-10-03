@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+compiled_presentation
+media
+__pycache__
